@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaBank.SistemaAgencia", "BaitaBank.SistemaAgencia\BaitaBank.SistemaAgencia.csproj", "{1E86DBB8-EAA9-4AAC-ABE4-6A1FC6F9912B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitaBank.Modelos", "BaitaBank.Modelos\BaitaBank.Modelos.csproj", "{EAC73AE9-15E4-4D31-8CF2-76045E6E219C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E86DBB8-EAA9-4AAC-ABE4-6A1FC6F9912B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E86DBB8-EAA9-4AAC-ABE4-6A1FC6F9912B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E86DBB8-EAA9-4AAC-ABE4-6A1FC6F9912B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E86DBB8-EAA9-4AAC-ABE4-6A1FC6F9912B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC73AE9-15E4-4D31-8CF2-76045E6E219C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC73AE9-15E4-4D31-8CF2-76045E6E219C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC73AE9-15E4-4D31-8CF2-76045E6E219C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC73AE9-15E4-4D31-8CF2-76045E6E219C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

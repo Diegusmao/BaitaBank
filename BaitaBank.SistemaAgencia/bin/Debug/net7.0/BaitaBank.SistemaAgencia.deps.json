@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BaitaBank.SistemaAgencia/1.0.0": {
+        "dependencies": {
+          "BaitaBank.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "BaitaBank.SistemaAgencia.dll": {}
+        }
+      },
+      "BaitaBank.Modelos/1.0.0": {
+        "runtime": {
+          "BaitaBank.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaitaBank.SistemaAgencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaitaBank.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
