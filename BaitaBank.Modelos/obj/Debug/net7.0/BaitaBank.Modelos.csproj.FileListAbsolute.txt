@@ -22,3 +22,5 @@ C:\BaitaBank\BaitaBank.Modelos\obj\Debug\net7.0\BaitaBank.Modelos.dll
 C:\BaitaBank\BaitaBank.Modelos\obj\Debug\net7.0\refint\BaitaBank.Modelos.dll
 C:\BaitaBank\BaitaBank.Modelos\obj\Debug\net7.0\BaitaBank.Modelos.pdb
 C:\BaitaBank\BaitaBank.Modelos\obj\Debug\net7.0\ref\BaitaBank.Modelos.dll
+C:\BaitaBank\BaitaBank.Modelos\bin\Debug\net7.0\BaitaBank.Modelos.xml
+C:\BaitaBank\BaitaBank.Modelos\obj\Debug\net7.0\BaitaBank.Modelos.xml

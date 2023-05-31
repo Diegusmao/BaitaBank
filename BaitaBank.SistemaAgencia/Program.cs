@@ -1,5 +1,6 @@
 ﻿using BaitaBank.Modelos;
 using BaitaBank.Modelos.Funcionarios;
+using Humanizer;
 
 namespace BaitaBank.SistemaAgencias
 {
@@ -7,11 +8,21 @@ namespace BaitaBank.SistemaAgencias
     {
         private static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(847,987234);
 
-            Funcionario funcionario = null;
+            DateTime dataFimPagamento = new DateTime(2018, 6, 20);
+            DateTime dataCorrente = DateTime.Now;
 
-            Console.WriteLine("funcionou");
+            TimeSpan diferenca = TimeSpan.FromMinutes(40); //dataFimPagfamento - dataCorrente;
+
+            string mensagem = "vencimento em " + TimeSpanHumanizeExtensions.Humanize(diferenca);
+
+            Console.WriteLine(mensagem);
+
+
+           // ContaCorrente conta = new ContaCorrente(847,987234);
+
+            //Funcionario funcionario = null;
+
 
             Console.ReadLine();
 
